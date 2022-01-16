@@ -2,7 +2,7 @@
 2021년 2학기 자료구조입문 과제입니다. (전자전기공학부-고종환교수님)
 
 1. HW1 
-- Linked list, stack, queue 구현 후 실행 시간 비교 (코드 + 리포트)
+- [Linked list, stack, queue 구현 후 실행 시간 비교 (코드 + 리포트)](https://github.com/better62/Data-Structure/blob/main/DS_HW_1-2.pptx)
 - 평균: 93.1, 점수: 100
 
 2. HW2
